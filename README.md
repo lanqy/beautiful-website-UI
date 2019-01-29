@@ -6,3 +6,4 @@ A collect beautiful website UI
 * https://doist.com/
 * https://webgradients.com/
 * https://knowyourteam.com/
+* https://foreignpolicy.com/
